@@ -1,0 +1,8 @@
+Notes 7/29
+For some reason, pdfs culled of blank pages are larger
+?
+
+1PdfP = 1/72 inch
+
+300dpi&c = 7mb->8mb
+300dpi$250c=7mb->30mb ???

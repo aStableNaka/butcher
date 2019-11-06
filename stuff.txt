@@ -1,0 +1,12 @@
+log
+err
+fileLoaded - (preinit) when a file gets loaded
+metaCreated - (preinit) when metadata gets created
+doneAssigningFilesToGroups
+processGroup
+beforeButcherFile
+doneButcherFile
+doneProcessGroup
+unlinkBlank
+foundDiscontinuous - when a group is discovered to be discontinuous
+doneProcessing
